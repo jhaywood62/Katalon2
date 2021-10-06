@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Clicking the cant sign in link for functionality</description>
+   <name>CantSignIn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9947a01-51e6-4336-a018-6fb1d2f79525</testCaseGuid>
+</TestCaseEntity>
